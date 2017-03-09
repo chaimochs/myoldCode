@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-#include <conio.h>
+#include <curses.h>
 #include <string.h>
 
  static double rd = .017453292;
